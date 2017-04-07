@@ -1,14 +1,30 @@
 {
   "name": "vaporwave",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Aesthetic memes",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
   "bin": {
-    "vaporwave": "index.js"
+    "vaporwave": "./vaporwave.js"
   },
   "author": "me",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamtat/vaporwave/issues"
+  },
+  "homepage": "https://github.com/jamtat/vaporwave#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamtat/vaporwave.git"
+  },
+  "keywords": [
+    "vaporwave",
+    "aesthetic",
+    "memes",
+    "full width",
+    "full-width",
+    "ascii"
+  ]
 }
